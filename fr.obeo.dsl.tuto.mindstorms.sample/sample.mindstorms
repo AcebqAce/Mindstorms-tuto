@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mindstorms:Choreography xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mindstorms="http://www.obeo.fr/dsl/mindstorms/1.0.0" name="Main">
+  <instructions xsi:type="mindstorms:GoForward" cm="50"/>
+  <instructions xsi:type="mindstorms:Rotate" random="true"/>
+  <instructions xsi:type="mindstorms:Grab"/>
+  <instructions xsi:type="mindstorms:Choreography" name="C1">
+    <instructions xsi:type="mindstorms:Rotate" random="true"/>
+    <instructions xsi:type="mindstorms:GoForward" cm="50"/>
+    <instructions xsi:type="mindstorms:Release"/>
+    <instructions xsi:type="mindstorms:Choreography" name="C2">
+      <instructions xsi:type="mindstorms:GoForward" cm="40"/>
+      <instructions xsi:type="mindstorms:Rotate" degrees="130"/>
+      <instructions xsi:type="mindstorms:GoForward" cm="50"/>
+    </instructions>
+    <instructions xsi:type="mindstorms:Grab"/>
+    <instructions xsi:type="mindstorms:Grab"/>
+    <instructions xsi:type="mindstorms:Choreography"/>
+    <instructions xsi:type="mindstorms:Grab"/>
+  </instructions>
+  <instructions xsi:type="mindstorms:GoForward" cm="40"/>
+  <instructions xsi:type="mindstorms:Rotate" degrees="-40"/>
+  <instructions xsi:type="mindstorms:Release"/>
+  <instructions xsi:type="mindstorms:Grab"/>
+  <instructions xsi:type="mindstorms:Release"/>
+  <instructions xsi:type="mindstorms:GoForward"/>
+  <instructions xsi:type="mindstorms:GoForward" cm="50"/>
+  <instructions xsi:type="mindstorms:Rotate" degrees="90"/>
+  <instructions xsi:type="mindstorms:Rotate" degrees="-90"/>
+  <instructions xsi:type="mindstorms:Choreography"/>
+  <instructions xsi:type="mindstorms:Choreography" name="C1"/>
+</mindstorms:Choreography>

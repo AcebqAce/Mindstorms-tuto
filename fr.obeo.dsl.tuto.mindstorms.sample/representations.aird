@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:mindstorms="http://www.obeo.fr/dsl/mindstorms/1.0.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+  <viewpoint:DAnalysis uid="_JXo94JdoEeaLsa8CU6neLQ" selectedViews="_CiX7gC71Ee2uUf-mqhY9mw" version="15.0.0.202201261500">
+    <semanticResources>sample.mindstorms</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" uid="_CiX7gC71Ee2uUf-mqhY9mw">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_DIv_AC71Ee2uUf-mqhY9mw" name="MainChoreography Diagram" repPath="#_DIe5QC71Ee2uUf-mqhY9mw" changeId="c1fbb00a-5598-4fa8-a286-448bb9e29e51">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']"/>
+        <target xmi:type="mindstorms:Choreography" href="sample.mindstorms#/"/>
+      </ownedRepresentationDescriptors>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_JiD_ki73Ee2uUf-mqhY9mw" name="new Choreography Diagram" repPath="#_JiD_kC73Ee2uUf-mqhY9mw" changeId="b5b7d0c9-e2f2-43ea-8d3e-7888eaaa4246">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']"/>
+        <target xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3"/>
+      </ownedRepresentationDescriptors>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_XJur4C-3Ee2lFtEHzSYJpg" name="C2Choreography Diagram" repPath="#_XJtdwC-3Ee2lFtEHzSYJpg" changeId="f30ecb57-c048-4a9e-96bf-59a6c808bc6f">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']"/>
+        <target xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3/@instructions.3"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram uid="_DIe5QC71Ee2uUf-mqhY9mw">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_DJQ8YC71Ee2uUf-mqhY9mw" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_DJQ8YS71Ee2uUf-mqhY9mw" type="Sirius" element="_DIe5QC71Ee2uUf-mqhY9mw" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_ubkI0C71Ee2uUf-mqhY9mw" type="2001" element="_ua_hEC71Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_ubmlEC71Ee2uUf-mqhY9mw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_ubmlES71Ee2uUf-mqhY9mw" x="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ueb2oC71Ee2uUf-mqhY9mw" type="3005" element="_ubEZkC71Ee2uUf-mqhY9mw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_ueb2oS71Ee2uUf-mqhY9mw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ueb2oi71Ee2uUf-mqhY9mw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_ubkI0S71Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ubkI0i71Ee2uUf-mqhY9mw" x="246" y="6" width="50" height="47"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_1yR3sC71Ee2uUf-mqhY9mw" type="2001" element="_1yPbci71Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_1yR3sy71Ee2uUf-mqhY9mw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_1yR3tC71Ee2uUf-mqhY9mw" x="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_1ymAwC71Ee2uUf-mqhY9mw" type="3005" element="_1yPbcy71Ee2uUf-mqhY9mw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_1ymAwS71Ee2uUf-mqhY9mw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1ymAwi71Ee2uUf-mqhY9mw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_1yR3sS71Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1yR3si71Ee2uUf-mqhY9mw" x="714" width="50" height="51"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_DIjVQC72Ee2uUf-mqhY9mw" type="2001" element="_DH_UlC72Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_DIjVQy72Ee2uUf-mqhY9mw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_DIjVRC72Ee2uUf-mqhY9mw" y="-18"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_DLGS8C72Ee2uUf-mqhY9mw" type="3005" element="_DH_UlS72Ee2uUf-mqhY9mw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_DLGS8S72Ee2uUf-mqhY9mw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DLGS8i72Ee2uUf-mqhY9mw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_DIjVQS72Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DIjVQi72Ee2uUf-mqhY9mw" x="-11" y="-1" width="75" height="50"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_DK8h8C72Ee2uUf-mqhY9mw" type="2001" element="_DH_Uly72Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_DK8h8y72Ee2uUf-mqhY9mw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_DK8h9C72Ee2uUf-mqhY9mw" y="-18"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_DLGS8y72Ee2uUf-mqhY9mw" type="3005" element="_DH_UmC72Ee2uUf-mqhY9mw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_DLGS9C72Ee2uUf-mqhY9mw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DLGS9S72Ee2uUf-mqhY9mw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_DK8h8S72Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DK8h8i72Ee2uUf-mqhY9mw" x="463" y="-1" width="75" height="50"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_XBXSwC72Ee2uUf-mqhY9mw" type="2001" element="_XA2VYS72Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_XBXSwy72Ee2uUf-mqhY9mw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_XBXSxC72Ee2uUf-mqhY9mw" y="-18"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XBxicC72Ee2uUf-mqhY9mw" type="3005" element="_XA4KkC72Ee2uUf-mqhY9mw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_XBxicS72Ee2uUf-mqhY9mw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XBxici72Ee2uUf-mqhY9mw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_XBXSwS72Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XBXSwi72Ee2uUf-mqhY9mw" x="132" y="-13" width="50" height="54"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_XBsC4C72Ee2uUf-mqhY9mw" type="2001" element="_XA4Kki72Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_XBsC4y72Ee2uUf-mqhY9mw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_XBsC5C72Ee2uUf-mqhY9mw" x="-17" y="-21"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_vpKu8C72Ee2uUf-mqhY9mw" type="3005" element="_vodkXC72Ee2uUf-mqhY9mw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_vpKu8S72Ee2uUf-mqhY9mw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vpKu8i72Ee2uUf-mqhY9mw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_XBsC4S72Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XBsC4i72Ee2uUf-mqhY9mw" x="602" y="-13" width="55" height="55"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_-P3hQC-0Ee2lFtEHzSYJpg" type="2003" element="_-Oj5sC-0Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_-P_dEC-0Ee2lFtEHzSYJpg" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_-QCgYC-0Ee2lFtEHzSYJpg" type="7004">
+            <children xmi:type="notation:Node" xmi:id="_AQVHsC-2Ee2lFtEHzSYJpg" type="3010" element="_APdlAC-2Ee2lFtEHzSYJpg">
+              <styles xmi:type="notation:FontStyle" xmi:id="_AQVHsS-2Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_AQVHsi-2Ee2lFtEHzSYJpg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_AQVuwC-2Ee2lFtEHzSYJpg" type="3010" element="_APmH4C-2Ee2lFtEHzSYJpg">
+              <styles xmi:type="notation:FontStyle" xmi:id="_AQVuwS-2Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_AQVuwi-2Ee2lFtEHzSYJpg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_AQVuwy-2Ee2lFtEHzSYJpg" type="3010" element="_APmu8C-2Ee2lFtEHzSYJpg">
+              <styles xmi:type="notation:FontStyle" xmi:id="_AQVuxC-2Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_AQVuxS-2Ee2lFtEHzSYJpg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_AQWV0C-2Ee2lFtEHzSYJpg" type="3010" element="_APnWAS-2Ee2lFtEHzSYJpg">
+              <styles xmi:type="notation:FontStyle" xmi:id="_AQWV0S-2Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_AQWV0i-2Ee2lFtEHzSYJpg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_AQW84C-2Ee2lFtEHzSYJpg" type="3010" element="_APn9EC-2Ee2lFtEHzSYJpg">
+              <styles xmi:type="notation:FontStyle" xmi:id="_AQW84S-2Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_AQW84i-2Ee2lFtEHzSYJpg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_PoljwC-5Ee2lFtEHzSYJpg" type="3010" element="_PojunS-5Ee2lFtEHzSYJpg">
+              <styles xmi:type="notation:FontStyle" xmi:id="_PoljwS-5Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Poljwi-5Ee2lFtEHzSYJpg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_pRURcC-5Ee2lFtEHzSYJpg" type="3010" element="_pRQnIC-5Ee2lFtEHzSYJpg">
+              <styles xmi:type="notation:FontStyle" xmi:id="_pRURcS-5Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_pRURci-5Ee2lFtEHzSYJpg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_VhdCUC--Ee2-c98rDBmG7A" type="3010" element="_VhW7ty--Ee2-c98rDBmG7A">
+              <styles xmi:type="notation:FontStyle" xmi:id="_VhdCUS--Ee2-c98rDBmG7A" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_VhdCUi--Ee2-c98rDBmG7A"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_-QCgYS-0Ee2lFtEHzSYJpg"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_-QCgYi-0Ee2lFtEHzSYJpg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_-P3hQS-0Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-P3hQi-0Ee2lFtEHzSYJpg" x="318" y="-24" width="123" height="194"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_tNpPAC-3Ee2lFtEHzSYJpg" type="2001" element="_tNgsIC-3Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_tNpPAy-3Ee2lFtEHzSYJpg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_tNpPBC-3Ee2lFtEHzSYJpg" x="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_tNsSUC-3Ee2lFtEHzSYJpg" type="3005" element="_tNhTMC-3Ee2lFtEHzSYJpg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_tNsSUS-3Ee2lFtEHzSYJpg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tNsSUi-3Ee2lFtEHzSYJpg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_tNpPAS-3Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tNpPAi-3Ee2lFtEHzSYJpg" x="696" y="240" width="50" height="47"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_9brj4C-3Ee2lFtEHzSYJpg" type="2001" element="_9bk2MC-3Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_9brj4y-3Ee2lFtEHzSYJpg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_9brj5C-3Ee2lFtEHzSYJpg" x="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9btZEC-3Ee2lFtEHzSYJpg" type="3005" element="_9bk2MS-3Ee2lFtEHzSYJpg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_9btZES-3Ee2lFtEHzSYJpg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9btZEi-3Ee2lFtEHzSYJpg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_9brj4S-3Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9brj4i-3Ee2lFtEHzSYJpg" x="558" y="264" width="50" height="51"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_UdqRwi-4Ee2lFtEHzSYJpg" type="2001" element="_UdkyMC-4Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_Udq40C-4Ee2lFtEHzSYJpg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Udq40S-4Ee2lFtEHzSYJpg" y="-18"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UdsuAC-4Ee2lFtEHzSYJpg" type="3005" element="_UdkyMS-4Ee2lFtEHzSYJpg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_UdsuAS-4Ee2lFtEHzSYJpg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UdsuAi-4Ee2lFtEHzSYJpg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_UdqRwy-4Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UdqRxC-4Ee2lFtEHzSYJpg" x="432" y="290" width="50" height="33"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_cCriYC-4Ee2lFtEHzSYJpg" type="2001" element="_cCk0sC-4Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_cCriYy-4Ee2lFtEHzSYJpg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_cCriZC-4Ee2lFtEHzSYJpg" y="-18"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_cCtXkC-4Ee2lFtEHzSYJpg" type="3005" element="_cCk0sS-4Ee2lFtEHzSYJpg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_cCtXkS-4Ee2lFtEHzSYJpg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cCtXki-4Ee2lFtEHzSYJpg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_cCriYS-4Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cCriYi-4Ee2lFtEHzSYJpg" x="288" y="290" width="50" height="33"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_tygaIC-4Ee2lFtEHzSYJpg" type="2001" element="_tycIsC-4Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_tygaIy-4Ee2lFtEHzSYJpg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_tygaJC-4Ee2lFtEHzSYJpg" x="5" y="-18"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_tyiPUC-4Ee2lFtEHzSYJpg" type="3005" element="_tycIsS-4Ee2lFtEHzSYJpg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_tyiPUS-4Ee2lFtEHzSYJpg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tyiPUi-4Ee2lFtEHzSYJpg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_tygaIS-4Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tygaIi-4Ee2lFtEHzSYJpg" x="271" y="414" width="50" height="54"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_BbZFQC-5Ee2lFtEHzSYJpg" type="2001" element="_BbS-oC-5Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_BbZFQy-5Ee2lFtEHzSYJpg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_BbZFRC-5Ee2lFtEHzSYJpg" y="-18"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_BbcIkC-5Ee2lFtEHzSYJpg" type="3005" element="_BbTlsC-5Ee2lFtEHzSYJpg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_BbcIkS-5Ee2lFtEHzSYJpg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BbcIki-5Ee2lFtEHzSYJpg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_BbZFQS-5Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BbZFQi-5Ee2lFtEHzSYJpg" x="420" y="450" width="50" height="54"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_okMswC-5Ee2lFtEHzSYJpg" type="2003" element="_okHNMC-5Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_okMswy-5Ee2lFtEHzSYJpg" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_okMsxC-5Ee2lFtEHzSYJpg" type="7004">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_okMsxS-5Ee2lFtEHzSYJpg"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_okMsxi-5Ee2lFtEHzSYJpg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_okMswS-5Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_okMswi-5Ee2lFtEHzSYJpg" x="583" y="486" width="76" height="116"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_4QDIUC--Ee2-c98rDBmG7A" type="2003" element="_4P8aoC--Ee2-c98rDBmG7A">
+          <children xmi:type="notation:Node" xmi:id="_4QFkkC--Ee2-c98rDBmG7A" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_4QFkkS--Ee2-c98rDBmG7A" type="7004">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_4QFkki--Ee2-c98rDBmG7A"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_4QFkky--Ee2-c98rDBmG7A"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_4QDIUS--Ee2-c98rDBmG7A" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4QDIUi--Ee2-c98rDBmG7A" x="96" y="234" width="128" height="91"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_DJQ8Yi71Ee2uUf-mqhY9mw"/>
+        <edges xmi:type="notation:Edge" xmi:id="_oqOU8C74Ee2uUf-mqhY9mw" type="4001" element="_oqA5kC74Ee2uUf-mqhY9mw" source="_DIjVQC72Ee2uUf-mqhY9mw" target="_XBXSwC72Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_oqO8AC74Ee2uUf-mqhY9mw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oqO8AS74Ee2uUf-mqhY9mw" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_oqO8Ai74Ee2uUf-mqhY9mw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oqO8Ay74Ee2uUf-mqhY9mw" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_oqO8BC74Ee2uUf-mqhY9mw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oqO8BS74Ee2uUf-mqhY9mw" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_oqOU8S74Ee2uUf-mqhY9mw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_oqOU8i74Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_oqOU8y74Ee2uUf-mqhY9mw" points="[0, 0, -60, 0]$[60, 0, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oqPjEC74Ee2uUf-mqhY9mw" id="(1.0,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oqPjES74Ee2uUf-mqhY9mw" id="(0.0,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_oqPjEi74Ee2uUf-mqhY9mw" type="4001" element="_oqA5lS74Ee2uUf-mqhY9mw" source="_DK8h8C72Ee2uUf-mqhY9mw" target="_XBsC4C72Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_oqPjFi74Ee2uUf-mqhY9mw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oqPjFy74Ee2uUf-mqhY9mw" x="9" y="1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_oqPjGC74Ee2uUf-mqhY9mw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oqPjGS74Ee2uUf-mqhY9mw" x="2" y="8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_oqPjGi74Ee2uUf-mqhY9mw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oqPjGy74Ee2uUf-mqhY9mw" x="-50" y="-2"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_oqPjEy74Ee2uUf-mqhY9mw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_oqPjFC74Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_oqPjFS74Ee2uUf-mqhY9mw" points="[0, 0, -60, 0]$[60, 0, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oqPjHC74Ee2uUf-mqhY9mw" id="(1.0,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oqPjHS74Ee2uUf-mqhY9mw" id="(0.0,0.4909090909090909)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_oqQKKC74Ee2uUf-mqhY9mw" type="4001" element="_oqBgqS74Ee2uUf-mqhY9mw" source="_XBXSwC72Ee2uUf-mqhY9mw" target="_ubkI0C71Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_oqQKLC74Ee2uUf-mqhY9mw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oqQKLS74Ee2uUf-mqhY9mw" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_oqQKLi74Ee2uUf-mqhY9mw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oqQKLy74Ee2uUf-mqhY9mw" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_oqQKMC74Ee2uUf-mqhY9mw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oqQKMS74Ee2uUf-mqhY9mw" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_oqQKKS74Ee2uUf-mqhY9mw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_oqQKKi74Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_oqQKKy74Ee2uUf-mqhY9mw" points="[0, 0, -60, 0]$[60, 0, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oqQKMi74Ee2uUf-mqhY9mw" id="(1.0,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oqQKMy74Ee2uUf-mqhY9mw" id="(0.0,0.48936170212765956)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_oqQxMC74Ee2uUf-mqhY9mw" type="4001" element="_oqBgri74Ee2uUf-mqhY9mw" source="_XBsC4C72Ee2uUf-mqhY9mw" target="_1yR3sC71Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_oqQxNC74Ee2uUf-mqhY9mw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oqQxNS74Ee2uUf-mqhY9mw" x="7" y="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_oqQxNi74Ee2uUf-mqhY9mw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oqQxNy74Ee2uUf-mqhY9mw" x="-5" y="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_oqQxOC74Ee2uUf-mqhY9mw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oqQxOS74Ee2uUf-mqhY9mw" x="-6"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_oqQxMS74Ee2uUf-mqhY9mw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_oqQxMi74Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_oqQxMy74Ee2uUf-mqhY9mw" points="[0, 0, -60, 0]$[60, 0, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oqQxOi74Ee2uUf-mqhY9mw" id="(1.0,0.4909090909090909)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oqQxOy74Ee2uUf-mqhY9mw" id="(0.0,0.49019607843137253)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_JF0XIC-1Ee2lFtEHzSYJpg" type="4001" element="_JFC7EC-1Ee2lFtEHzSYJpg" source="_ubkI0C71Ee2uUf-mqhY9mw" target="_-P3hQC-0Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_JF3acC-1Ee2lFtEHzSYJpg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JF3acS-1Ee2lFtEHzSYJpg" x="-6" y="-6"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_JF4BgC-1Ee2lFtEHzSYJpg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JF4BgS-1Ee2lFtEHzSYJpg" x="5" y="-4"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_JF4okC-1Ee2lFtEHzSYJpg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JF4okS-1Ee2lFtEHzSYJpg" x="1" y="3"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_JF0XIS-1Ee2lFtEHzSYJpg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_JF0XIi-1Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_JF0XIy-1Ee2lFtEHzSYJpg" points="[25, -14, -40, 20]$[47, -25, -18, 9]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JF86AC-1Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JF86AS-1Ee2lFtEHzSYJpg" id="(0.15497644817651077,0.10325987980331452)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_JF9hEC-1Ee2lFtEHzSYJpg" type="4001" element="_JFEwQC-1Ee2lFtEHzSYJpg" source="_-P3hQC-0Ee2lFtEHzSYJpg" target="_DK8h8C72Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_JF9hFC-1Ee2lFtEHzSYJpg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JF9hFS-1Ee2lFtEHzSYJpg" x="-5" y="-15"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_JF-IIC-1Ee2lFtEHzSYJpg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JF-IIS-1Ee2lFtEHzSYJpg" x="2" y="4"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_JF-IIi-1Ee2lFtEHzSYJpg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JF-IIy-1Ee2lFtEHzSYJpg" x="2" y="9"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_JF9hES-1Ee2lFtEHzSYJpg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_JF9hEi-1Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_JF9hEy-1Ee2lFtEHzSYJpg" points="[103, 17, -61, -11]$[127, 21, -37, -7]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JF-vMC-1Ee2lFtEHzSYJpg" id="(0.15497644817651077,0.10325987980331452)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JF-vMS-1Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_tNs5YC-3Ee2lFtEHzSYJpg" type="4001" element="_tNooCC-3Ee2lFtEHzSYJpg" source="_1yR3sC71Ee2uUf-mqhY9mw" target="_tNpPAC-3Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_tNs5ZC-3Ee2lFtEHzSYJpg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tNs5ZS-3Ee2lFtEHzSYJpg" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_tNs5Zi-3Ee2lFtEHzSYJpg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tNs5Zy-3Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_tNs5aC-3Ee2lFtEHzSYJpg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tNs5aS-3Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_tNs5YS-3Ee2lFtEHzSYJpg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_tNs5Yi-3Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tNs5Yy-3Ee2lFtEHzSYJpg" points="[0, 0, 18, -240]$[-18, 240, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_tNs5ai-3Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_tNs5ay-3Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_9buAIC-3Ee2lFtEHzSYJpg" type="4001" element="_9bq87C-3Ee2lFtEHzSYJpg" source="_tNpPAC-3Ee2lFtEHzSYJpg" target="_9brj4C-3Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_9buAJC-3Ee2lFtEHzSYJpg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9buAJS-3Ee2lFtEHzSYJpg" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9buAJi-3Ee2lFtEHzSYJpg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9buAJy-3Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9buAKC-3Ee2lFtEHzSYJpg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9buAKS-3Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_9buAIS-3Ee2lFtEHzSYJpg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_9buAIi-3Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9buAIy-3Ee2lFtEHzSYJpg" points="[0, 0, 138, -24]$[-138, 24, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9buAKi-3Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9buAKy-3Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_UdsuAy-4Ee2lFtEHzSYJpg" type="4001" element="_Udpq1S-4Ee2lFtEHzSYJpg" source="_9brj4C-3Ee2lFtEHzSYJpg" target="_UdqRwi-4Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_UdsuBy-4Ee2lFtEHzSYJpg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UdsuCC-4Ee2lFtEHzSYJpg" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UdsuCS-4Ee2lFtEHzSYJpg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UdsuCi-4Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UdsuCy-4Ee2lFtEHzSYJpg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UdsuDC-4Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_UdsuBC-4Ee2lFtEHzSYJpg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_UdsuBS-4Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UdsuBi-4Ee2lFtEHzSYJpg" points="[0, 0, 126, -26]$[-126, 26, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UdtVEC-4Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UdtVES-4Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_cCt-oC-4Ee2lFtEHzSYJpg" type="4001" element="_cCq7ZC-4Ee2lFtEHzSYJpg" source="_UdqRwi-4Ee2lFtEHzSYJpg" target="_cCriYC-4Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_cCt-pC-4Ee2lFtEHzSYJpg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cCt-pS-4Ee2lFtEHzSYJpg" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_cCt-pi-4Ee2lFtEHzSYJpg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cCt-py-4Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_cCt-qC-4Ee2lFtEHzSYJpg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cCt-qS-4Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_cCt-oS-4Ee2lFtEHzSYJpg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_cCt-oi-4Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_cCt-oy-4Ee2lFtEHzSYJpg" points="[-25, 0, 119, 0]$[-144, 0, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_cCulsC-4Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_cCulsS-4Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_tyi2YC-4Ee2lFtEHzSYJpg" type="4001" element="_tyfzEi-4Ee2lFtEHzSYJpg" source="_cCriYC-4Ee2lFtEHzSYJpg" target="_tygaIC-4Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_tyi2ZC-4Ee2lFtEHzSYJpg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tyi2ZS-4Ee2lFtEHzSYJpg" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_tyi2Zi-4Ee2lFtEHzSYJpg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tyi2Zy-4Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_tyi2aC-4Ee2lFtEHzSYJpg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tyi2aS-4Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_tyi2YS-4Ee2lFtEHzSYJpg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_tyi2Yi-4Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tyi2Yy-4Ee2lFtEHzSYJpg" points="[0, 0, 17, -151]$[-14, 124, 3, -27]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_tyi2ai-4Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_tyi2ay-4Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_BbcIky-5Ee2lFtEHzSYJpg" type="4001" element="_BbYeUi-5Ee2lFtEHzSYJpg" source="_tygaIC-4Ee2lFtEHzSYJpg" target="_BbZFQC-5Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_BbcIly-5Ee2lFtEHzSYJpg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BbcImC-5Ee2lFtEHzSYJpg" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_BbcvoC-5Ee2lFtEHzSYJpg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BbcvoS-5Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Bbcvoi-5Ee2lFtEHzSYJpg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bbcvoy-5Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_BbcIlC-5Ee2lFtEHzSYJpg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_BbcIlS-5Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BbcIli-5Ee2lFtEHzSYJpg" points="[25, 6, -124, -30]$[124, 29, -25, -7]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_BbcvpC-5Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_BbcvpS-5Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_okNT0C-5Ee2lFtEHzSYJpg" type="4001" element="_okMFxi-5Ee2lFtEHzSYJpg" source="_BbZFQC-5Ee2lFtEHzSYJpg" target="_okMswC-5Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_okNT1C-5Ee2lFtEHzSYJpg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_okNT1S-5Ee2lFtEHzSYJpg" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_okNT1i-5Ee2lFtEHzSYJpg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_okNT1y-5Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_okNT2C-5Ee2lFtEHzSYJpg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_okNT2S-5Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_okNT0S-5Ee2lFtEHzSYJpg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_okNT0i-5Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_okNT0y-5Ee2lFtEHzSYJpg" points="[0, 0, -137, -8]$[137, 8, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_okNT2i-5Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_okNT2y-5Ee2lFtEHzSYJpg" id="(0.25675675675675674,0.1744186046511628)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_4QIA0C--Ee2-c98rDBmG7A" type="4001" element="_4QAsOC--Ee2-c98rDBmG7A" source="_okMswC-5Ee2lFtEHzSYJpg" target="_4QDIUC--Ee2-c98rDBmG7A">
+          <children xmi:type="notation:Node" xmi:id="_4QM5UC--Ee2-c98rDBmG7A" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4QM5US--Ee2-c98rDBmG7A" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_4QM5Ui--Ee2-c98rDBmG7A" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4QM5Uy--Ee2-c98rDBmG7A" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_4QNgYC--Ee2-c98rDBmG7A" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4QNgYS--Ee2-c98rDBmG7A" x="-9" y="-5"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_4QIA0S--Ee2-c98rDBmG7A"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_4QIA0i--Ee2-c98rDBmG7A" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4QIA0y--Ee2-c98rDBmG7A" points="[-37, 9, 468, 298]$[-351, 9, 154, 298]$[-495, -269, 10, 20]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4QP8oC--Ee2-c98rDBmG7A" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4QP8oS--Ee2-c98rDBmG7A" id="(0.15079365079365079,0.22388059701492535)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_DJY4MC71Ee2uUf-mqhY9mw" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_DJZfQC71Ee2uUf-mqhY9mw">
+        <computedStyleDescriptions xmi:type="style:WorkspaceImageDescription" xmi:id="_vodkWi72Ee2uUf-mqhY9mw" showIcon="false" labelExpression="aql:if self.random then '?' else self.degrees+ '°' endif" sizeComputationExpression="-1" resizeKind="NSEW" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/Rotate_Right.svg">
+          <borderColor xmi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+          <labelColor xmi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+        </computedStyleDescriptions>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_ua_hEC71Ee2uUf-mqhY9mw" outgoingEdges="_JFC7EC-1Ee2lFtEHzSYJpg" incomingEdges="_oqBgqS74Ee2uUf-mqhY9mw" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:Grab" href="sample.mindstorms#//@instructions.2"/>
+      <semanticElements xmi:type="mindstorms:Grab" href="sample.mindstorms#//@instructions.2"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_ubEZkC71Ee2uUf-mqhY9mw" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/Grab.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Grab']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Grab']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_tNgsIC-3Ee2lFtEHzSYJpg" outgoingEdges="_9bq87C-3Ee2lFtEHzSYJpg" incomingEdges="_tNooCC-3Ee2lFtEHzSYJpg" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:Grab" href="sample.mindstorms#//@instructions.7"/>
+      <semanticElements xmi:type="mindstorms:Grab" href="sample.mindstorms#//@instructions.7"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_tNhTMC-3Ee2lFtEHzSYJpg" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/Grab.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Grab']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Grab']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_1yPbci71Ee2uUf-mqhY9mw" outgoingEdges="_tNooCC-3Ee2lFtEHzSYJpg" incomingEdges="_oqBgri74Ee2uUf-mqhY9mw" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:Release" href="sample.mindstorms#//@instructions.6"/>
+      <semanticElements xmi:type="mindstorms:Release" href="sample.mindstorms#//@instructions.6"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_1yPbcy71Ee2uUf-mqhY9mw" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/Release.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Release']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Release']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_9bk2MC-3Ee2lFtEHzSYJpg" outgoingEdges="_Udpq1S-4Ee2lFtEHzSYJpg" incomingEdges="_9bq87C-3Ee2lFtEHzSYJpg" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:Release" href="sample.mindstorms#//@instructions.8"/>
+      <semanticElements xmi:type="mindstorms:Release" href="sample.mindstorms#//@instructions.8"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_9bk2MS-3Ee2lFtEHzSYJpg" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/Release.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Release']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Release']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_DH_UlC72Ee2uUf-mqhY9mw" name="50cm" outgoingEdges="_oqA5kC74Ee2uUf-mqhY9mw" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.0"/>
+      <semanticElements xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.0"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_DH_UlS72Ee2uUf-mqhY9mw" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/GoForward.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_DH_Uly72Ee2uUf-mqhY9mw" name="40cm" outgoingEdges="_oqA5lS74Ee2uUf-mqhY9mw" incomingEdges="_JFEwQC-1Ee2lFtEHzSYJpg" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.4"/>
+      <semanticElements xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.4"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_DH_UmC72Ee2uUf-mqhY9mw" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/GoForward.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_UdkyMC-4Ee2lFtEHzSYJpg" name="0cm" outgoingEdges="_cCq7ZC-4Ee2lFtEHzSYJpg" incomingEdges="_Udpq1S-4Ee2lFtEHzSYJpg" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.9"/>
+      <semanticElements xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.9"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_UdkyMS-4Ee2lFtEHzSYJpg" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/GoForward.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_cCk0sC-4Ee2lFtEHzSYJpg" name="50cm" outgoingEdges="_tyfzEi-4Ee2lFtEHzSYJpg" incomingEdges="_cCq7ZC-4Ee2lFtEHzSYJpg" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.10"/>
+      <semanticElements xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.10"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_cCk0sS-4Ee2lFtEHzSYJpg" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/GoForward.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_XA2VYS72Ee2uUf-mqhY9mw" name="?" outgoingEdges="_oqBgqS74Ee2uUf-mqhY9mw" incomingEdges="_oqA5kC74Ee2uUf-mqhY9mw" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.1"/>
+      <semanticElements xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.1"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_XA4KkC72Ee2uUf-mqhY9mw" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/Rotate_Left.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Rotate']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Rotate']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_XA4Kki72Ee2uUf-mqhY9mw" name="-40°" outgoingEdges="_oqBgri74Ee2uUf-mqhY9mw" incomingEdges="_oqA5lS74Ee2uUf-mqhY9mw" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.5"/>
+      <semanticElements xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.5"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_vodkXC72Ee2uUf-mqhY9mw" showIcon="false" description="_vodkWi72Ee2uUf-mqhY9mw" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/Rotate_Right.svg"/>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Rotate']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_tycIsC-4Ee2lFtEHzSYJpg" name="90°" outgoingEdges="_BbYeUi-5Ee2lFtEHzSYJpg" incomingEdges="_tyfzEi-4Ee2lFtEHzSYJpg" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.11"/>
+      <semanticElements xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.11"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_tycIsS-4Ee2lFtEHzSYJpg" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/Rotate_Left.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Rotate']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Rotate']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_BbS-oC-5Ee2lFtEHzSYJpg" name="-90°" outgoingEdges="_okMFxi-5Ee2lFtEHzSYJpg" incomingEdges="_BbYeUi-5Ee2lFtEHzSYJpg" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.12"/>
+      <semanticElements xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.12"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_BbTlsC-5Ee2lFtEHzSYJpg" showIcon="false" description="_vodkWi72Ee2uUf-mqhY9mw" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/Rotate_Right.svg"/>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Rotate']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_oqA5kC74Ee2uUf-mqhY9mw" sourceNode="_DH_UlC72Ee2uUf-mqhY9mw" targetNode="_XA2VYS72Ee2uUf-mqhY9mw">
+      <target xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_oqA5kS74Ee2uUf-mqhY9mw" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_oqA5ki74Ee2uUf-mqhY9mw" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_oqA5lS74Ee2uUf-mqhY9mw" sourceNode="_DH_Uly72Ee2uUf-mqhY9mw" targetNode="_XA4Kki72Ee2uUf-mqhY9mw">
+      <target xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.4"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_oqBgoC74Ee2uUf-mqhY9mw" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_oqBgoS74Ee2uUf-mqhY9mw" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_oqBgqS74Ee2uUf-mqhY9mw" sourceNode="_XA2VYS72Ee2uUf-mqhY9mw" targetNode="_ua_hEC71Ee2uUf-mqhY9mw">
+      <target xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.1"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_oqBgqi74Ee2uUf-mqhY9mw" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_oqBgqy74Ee2uUf-mqhY9mw" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_oqBgri74Ee2uUf-mqhY9mw" sourceNode="_XA4Kki72Ee2uUf-mqhY9mw" targetNode="_1yPbci71Ee2uUf-mqhY9mw">
+      <target xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.5"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_oqCHsC74Ee2uUf-mqhY9mw" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_oqCHsS74Ee2uUf-mqhY9mw" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_-Oj5sC-0Ee2lFtEHzSYJpg" name="C1" outgoingEdges="_JFEwQC-1Ee2lFtEHzSYJpg" incomingEdges="_JFC7EC-1Ee2lFtEHzSYJpg">
+      <target xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3"/>
+      <semanticElements xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_-Om9AC-0Ee2lFtEHzSYJpg" borderSize="1" borderSizeComputationExpression="1" backgroundColor="900,100,130" foregroundColor="900,100,130">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']"/>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_APdlAC-2Ee2lFtEHzSYJpg" name="?">
+        <target xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.3/@instructions.0"/>
+        <semanticElements xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.3/@instructions.0"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_APkSsC-2Ee2lFtEHzSYJpg" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']"/>
+      </ownedElements>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_APmH4C-2Ee2lFtEHzSYJpg" name="50 cm">
+        <target xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.3/@instructions.1"/>
+        <semanticElements xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.3/@instructions.1"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_APmH4S-2Ee2lFtEHzSYJpg" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']"/>
+      </ownedElements>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_APmu8C-2Ee2lFtEHzSYJpg">
+        <target xmi:type="mindstorms:Release" href="sample.mindstorms#//@instructions.3/@instructions.2"/>
+        <semanticElements xmi:type="mindstorms:Release" href="sample.mindstorms#//@instructions.3/@instructions.2"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_APnWAC-2Ee2lFtEHzSYJpg" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']"/>
+      </ownedElements>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_APnWAS-2Ee2lFtEHzSYJpg" name="C2">
+        <target xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3/@instructions.3"/>
+        <semanticElements xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3/@instructions.3"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_APnWAi-2Ee2lFtEHzSYJpg" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']"/>
+      </ownedElements>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_APn9EC-2Ee2lFtEHzSYJpg">
+        <target xmi:type="mindstorms:Grab" href="sample.mindstorms#//@instructions.3/@instructions.4"/>
+        <semanticElements xmi:type="mindstorms:Grab" href="sample.mindstorms#//@instructions.3/@instructions.4"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_APokIC-2Ee2lFtEHzSYJpg" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']"/>
+      </ownedElements>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_PojunS-5Ee2lFtEHzSYJpg">
+        <target xmi:type="mindstorms:Grab" href="sample.mindstorms#//@instructions.3/@instructions.5"/>
+        <semanticElements xmi:type="mindstorms:Grab" href="sample.mindstorms#//@instructions.3/@instructions.5"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_Pojuni-5Ee2lFtEHzSYJpg" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']"/>
+      </ownedElements>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_pRQnIC-5Ee2lFtEHzSYJpg">
+        <target xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3/@instructions.6"/>
+        <semanticElements xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3/@instructions.6"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_pRROIC-5Ee2lFtEHzSYJpg" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']"/>
+      </ownedElements>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_VhW7ty--Ee2-c98rDBmG7A">
+        <target xmi:type="mindstorms:Grab" href="sample.mindstorms#//@instructions.3/@instructions.7"/>
+        <semanticElements xmi:type="mindstorms:Grab" href="sample.mindstorms#//@instructions.3/@instructions.7"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_VhYJ0C--Ee2-c98rDBmG7A" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']"/>
+      </ownedElements>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_JFC7EC-1Ee2lFtEHzSYJpg" sourceNode="_ua_hEC71Ee2uUf-mqhY9mw" targetNode="_-Oj5sC-0Ee2lFtEHzSYJpg">
+      <target xmi:type="mindstorms:Grab" href="sample.mindstorms#//@instructions.2"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_JFDiIC-1Ee2lFtEHzSYJpg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_JFDiIS-1Ee2lFtEHzSYJpg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_JFEwQC-1Ee2lFtEHzSYJpg" sourceNode="_-Oj5sC-0Ee2lFtEHzSYJpg" targetNode="_DH_Uly72Ee2uUf-mqhY9mw">
+      <target xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_JFEwQS-1Ee2lFtEHzSYJpg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_JFEwQi-1Ee2lFtEHzSYJpg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_tNooCC-3Ee2lFtEHzSYJpg" sourceNode="_1yPbci71Ee2uUf-mqhY9mw" targetNode="_tNgsIC-3Ee2lFtEHzSYJpg">
+      <target xmi:type="mindstorms:Release" href="sample.mindstorms#//@instructions.6"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_tNooCS-3Ee2lFtEHzSYJpg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_tNooCi-3Ee2lFtEHzSYJpg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_9bq87C-3Ee2lFtEHzSYJpg" sourceNode="_tNgsIC-3Ee2lFtEHzSYJpg" targetNode="_9bk2MC-3Ee2lFtEHzSYJpg">
+      <target xmi:type="mindstorms:Grab" href="sample.mindstorms#//@instructions.7"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_9bq87S-3Ee2lFtEHzSYJpg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_9bq87i-3Ee2lFtEHzSYJpg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_Udpq1S-4Ee2lFtEHzSYJpg" sourceNode="_9bk2MC-3Ee2lFtEHzSYJpg" targetNode="_UdkyMC-4Ee2lFtEHzSYJpg">
+      <target xmi:type="mindstorms:Release" href="sample.mindstorms#//@instructions.8"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_Udpq1i-4Ee2lFtEHzSYJpg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_Udpq1y-4Ee2lFtEHzSYJpg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_cCq7ZC-4Ee2lFtEHzSYJpg" sourceNode="_UdkyMC-4Ee2lFtEHzSYJpg" targetNode="_cCk0sC-4Ee2lFtEHzSYJpg">
+      <target xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.9"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_cCq7ZS-4Ee2lFtEHzSYJpg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_cCq7Zi-4Ee2lFtEHzSYJpg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_tyfzEi-4Ee2lFtEHzSYJpg" sourceNode="_cCk0sC-4Ee2lFtEHzSYJpg" targetNode="_tycIsC-4Ee2lFtEHzSYJpg">
+      <target xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.10"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_tyfzEy-4Ee2lFtEHzSYJpg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_tyfzFC-4Ee2lFtEHzSYJpg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_BbYeUi-5Ee2lFtEHzSYJpg" sourceNode="_tycIsC-4Ee2lFtEHzSYJpg" targetNode="_BbS-oC-5Ee2lFtEHzSYJpg">
+      <target xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.11"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_BbYeUy-5Ee2lFtEHzSYJpg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_BbYeVC-5Ee2lFtEHzSYJpg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_okHNMC-5Ee2lFtEHzSYJpg" outgoingEdges="_4QAsOC--Ee2-c98rDBmG7A" incomingEdges="_okMFxi-5Ee2lFtEHzSYJpg">
+      <target xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.13"/>
+      <semanticElements xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.13"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_okHNMS-5Ee2lFtEHzSYJpg" borderSize="1" borderSizeComputationExpression="1" backgroundColor="900,100,130" foregroundColor="900,100,130">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_okMFxi-5Ee2lFtEHzSYJpg" sourceNode="_BbS-oC-5Ee2lFtEHzSYJpg" targetNode="_okHNMC-5Ee2lFtEHzSYJpg">
+      <target xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.12"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_okMFxy-5Ee2lFtEHzSYJpg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_okMFyC-5Ee2lFtEHzSYJpg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_4P8aoC--Ee2-c98rDBmG7A" name="C1" incomingEdges="_4QAsOC--Ee2-c98rDBmG7A">
+      <target xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.14"/>
+      <semanticElements xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.14"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_4P8aoS--Ee2-c98rDBmG7A" borderSize="1" borderSizeComputationExpression="1" backgroundColor="900,100,130" foregroundColor="900,100,130">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_4QAsOC--Ee2-c98rDBmG7A" sourceNode="_okHNMC-5Ee2lFtEHzSYJpg" targetNode="_4P8aoC--Ee2-c98rDBmG7A">
+      <target xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.13"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_4QBTIC--Ee2-c98rDBmG7A" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_4QBTIS--Ee2-c98rDBmG7A" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_DIm1EC71Ee2uUf-mqhY9mw"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer"/>
+    <target xmi:type="mindstorms:Choreography" href="sample.mindstorms#/"/>
+  </diagram:DSemanticDiagram>
+  <diagram:DSemanticDiagram uid="_JiD_kC73Ee2uUf-mqhY9mw">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_JiF0wC73Ee2uUf-mqhY9mw" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_JiF0wS73Ee2uUf-mqhY9mw" type="Sirius" element="_JiD_kC73Ee2uUf-mqhY9mw" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_JiI4Fy73Ee2uUf-mqhY9mw" type="2001" element="_JiF0wy73Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_JiI4Gi73Ee2uUf-mqhY9mw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_JiI4Gy73Ee2uUf-mqhY9mw" x="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_JigEcC73Ee2uUf-mqhY9mw" type="3005" element="_JiF0xC73Ee2uUf-mqhY9mw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_JigEcS73Ee2uUf-mqhY9mw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JigEci73Ee2uUf-mqhY9mw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_JiI4GC73Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JiI4GS73Ee2uUf-mqhY9mw" width="50" height="47"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_JiQz4C73Ee2uUf-mqhY9mw" type="2001" element="_JiF0xi73Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_JiRa8C73Ee2uUf-mqhY9mw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_JiRa8S73Ee2uUf-mqhY9mw" x="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_JigrgC73Ee2uUf-mqhY9mw" type="3005" element="_JiF0xy73Ee2uUf-mqhY9mw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_JigrgS73Ee2uUf-mqhY9mw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Jigrgi73Ee2uUf-mqhY9mw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_JiQz4S73Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JiQz4i73Ee2uUf-mqhY9mw" y="216" width="50" height="51"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_JiUeQC73Ee2uUf-mqhY9mw" type="2001" element="_JiF0yS73Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_JiVFUC73Ee2uUf-mqhY9mw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_JiVFUS73Ee2uUf-mqhY9mw" y="-18"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_JihSkC73Ee2uUf-mqhY9mw" type="3005" element="_JiF0yi73Ee2uUf-mqhY9mw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_JihSkS73Ee2uUf-mqhY9mw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JihSki73Ee2uUf-mqhY9mw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_JiUeQS73Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JiUeQi73Ee2uUf-mqhY9mw" y="330" width="50" height="33"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_JiYvsC73Ee2uUf-mqhY9mw" type="2001" element="_JiF0zC73Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_JiZWwC73Ee2uUf-mqhY9mw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_JiZWwS73Ee2uUf-mqhY9mw" x="-7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_JihSky73Ee2uUf-mqhY9mw" type="3005" element="_JiI4EC73Ee2uUf-mqhY9mw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_JihSlC73Ee2uUf-mqhY9mw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JihSlS73Ee2uUf-mqhY9mw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_JiYvsS73Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JiYvsi73Ee2uUf-mqhY9mw" y="420" width="50" height="54"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_JicaEC73Ee2uUf-mqhY9mw" visible="false" type="2001" element="_JiI4Ei73Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_JidBIC73Ee2uUf-mqhY9mw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_JidBIS73Ee2uUf-mqhY9mw" x="-16"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Jih5oC73Ee2uUf-mqhY9mw" type="3005" element="_JiI4Ey73Ee2uUf-mqhY9mw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_Jih5oS73Ee2uUf-mqhY9mw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Jih5oi73Ee2uUf-mqhY9mw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_JicaES73Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JicaEi73Ee2uUf-mqhY9mw" y="108" width="50" height="50"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_Ou50oC-3Ee2lFtEHzSYJpg" type="2003" element="_Ou1jNS-3Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_Ou50oy-3Ee2lFtEHzSYJpg" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_Ou6bsC-3Ee2lFtEHzSYJpg" type="7004">
+            <children xmi:type="notation:Node" xmi:id="_Ou6bsy-3Ee2lFtEHzSYJpg" type="3010" element="_Ou2KQi-3Ee2lFtEHzSYJpg">
+              <styles xmi:type="notation:FontStyle" xmi:id="_Ou6btC-3Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Ou6btS-3Ee2lFtEHzSYJpg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_Ou6bti-3Ee2lFtEHzSYJpg" type="3010" element="_Ou2xUS-3Ee2lFtEHzSYJpg">
+              <styles xmi:type="notation:FontStyle" xmi:id="_Ou6bty-3Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Ou6buC-3Ee2lFtEHzSYJpg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_Ou6buS-3Ee2lFtEHzSYJpg" type="3010" element="_Ou3YYS-3Ee2lFtEHzSYJpg">
+              <styles xmi:type="notation:FontStyle" xmi:id="_Ou6bui-3Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Ou6buy-3Ee2lFtEHzSYJpg"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_Ou6bsS-3Ee2lFtEHzSYJpg"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_Ou6bsi-3Ee2lFtEHzSYJpg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_Ou50oS-3Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ou50oi-3Ee2lFtEHzSYJpg" x="78" y="78"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_Poljwy-5Ee2lFtEHzSYJpg" type="2001" element="_PogrQi-5Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_Poljxi-5Ee2lFtEHzSYJpg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Poljxy-5Ee2lFtEHzSYJpg" x="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_PonY8C-5Ee2lFtEHzSYJpg" type="3005" element="_PogrQy-5Ee2lFtEHzSYJpg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_PonY8S-5Ee2lFtEHzSYJpg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PonY8i-5Ee2lFtEHzSYJpg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_PoljxC-5Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PoljxS-5Ee2lFtEHzSYJpg" x="360" y="252" width="50" height="47"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_pRScQC-5Ee2lFtEHzSYJpg" type="2003" element="_pRNjyy-5Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_pRScQy-5Ee2lFtEHzSYJpg" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_pRScRC-5Ee2lFtEHzSYJpg" type="7004">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_pRScRS-5Ee2lFtEHzSYJpg"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_pRScRi-5Ee2lFtEHzSYJpg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_pRScQS-5Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pRScQi-5Ee2lFtEHzSYJpg" x="360" y="252"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_JiF0wi73Ee2uUf-mqhY9mw"/>
+        <edges xmi:type="notation:Edge" xmi:id="_ooPX8C74Ee2uUf-mqhY9mw" type="4001" element="_onLA8C74Ee2uUf-mqhY9mw" source="_JiUeQC73Ee2uUf-mqhY9mw" target="_JiQz4C73Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_ooP_AC74Ee2uUf-mqhY9mw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ooP_AS74Ee2uUf-mqhY9mw" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ooUQcC74Ee2uUf-mqhY9mw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ooUQcS74Ee2uUf-mqhY9mw" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ooUQci74Ee2uUf-mqhY9mw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ooUQcy74Ee2uUf-mqhY9mw" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_ooPX8S74Ee2uUf-mqhY9mw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_ooPX8i74Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ooPX8y74Ee2uUf-mqhY9mw" points="[0, 0, 0, 60]$[0, -60, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ooczUC74Ee2uUf-mqhY9mw" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ooczUS74Ee2uUf-mqhY9mw" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_ooczUi74Ee2uUf-mqhY9mw" visible="false" type="4001" element="_onS8wi74Ee2uUf-mqhY9mw" source="_JiQz4C73Ee2uUf-mqhY9mw" target="_JicaEC73Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_ooczVi74Ee2uUf-mqhY9mw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ooczVy74Ee2uUf-mqhY9mw" x="2" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ooczWC74Ee2uUf-mqhY9mw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ooczWS74Ee2uUf-mqhY9mw" x="9" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_oodaYC74Ee2uUf-mqhY9mw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oodaYS74Ee2uUf-mqhY9mw" x="-2" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_ooczUy74Ee2uUf-mqhY9mw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_ooczVC74Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ooczVS74Ee2uUf-mqhY9mw" points="[0, 0, 0, 60]$[0, -60, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oodaYi74Ee2uUf-mqhY9mw" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oodaYy74Ee2uUf-mqhY9mw" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_oodaZC74Ee2uUf-mqhY9mw" type="4001" element="_onTj1C74Ee2uUf-mqhY9mw" source="_JiYvsC73Ee2uUf-mqhY9mw" target="_JiUeQC73Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_oodaaC74Ee2uUf-mqhY9mw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oodaaS74Ee2uUf-mqhY9mw" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_oodaai74Ee2uUf-mqhY9mw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oodaay74Ee2uUf-mqhY9mw" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_oodabC74Ee2uUf-mqhY9mw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oodabS74Ee2uUf-mqhY9mw" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_oodaZS74Ee2uUf-mqhY9mw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_oodaZi74Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_oodaZy74Ee2uUf-mqhY9mw" points="[0, 0, 0, 60]$[0, -60, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oodabi74Ee2uUf-mqhY9mw" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ooeBcC74Ee2uUf-mqhY9mw" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_ooeBcS74Ee2uUf-mqhY9mw" visible="false" type="4001" element="_onTj2S74Ee2uUf-mqhY9mw" source="_JicaEC73Ee2uUf-mqhY9mw" target="_JiI4Fy73Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_ooeogC74Ee2uUf-mqhY9mw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ooeogS74Ee2uUf-mqhY9mw" x="-6" y="8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ooeogi74Ee2uUf-mqhY9mw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ooeogy74Ee2uUf-mqhY9mw" x="6" y="-8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ooeohC74Ee2uUf-mqhY9mw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ooeohS74Ee2uUf-mqhY9mw" x="-6" y="-8"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_ooeBci74Ee2uUf-mqhY9mw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_ooeBcy74Ee2uUf-mqhY9mw" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ooeBdC74Ee2uUf-mqhY9mw" points="[0, 0, 0, 60]$[0, -60, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oofPkC74Ee2uUf-mqhY9mw" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oofPkS74Ee2uUf-mqhY9mw" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_Ou7CwC-3Ee2lFtEHzSYJpg" type="4001" element="_Ou3_eC-3Ee2lFtEHzSYJpg" source="_JiQz4C73Ee2uUf-mqhY9mw" target="_Ou50oC-3Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_Ou7CxC-3Ee2lFtEHzSYJpg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ou7CxS-3Ee2lFtEHzSYJpg" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Ou7Cxi-3Ee2lFtEHzSYJpg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ou7Cxy-3Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Ou7CyC-3Ee2lFtEHzSYJpg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ou7CyS-3Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_Ou7CwS-3Ee2lFtEHzSYJpg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_Ou7Cwi-3Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Ou7Cwy-3Ee2lFtEHzSYJpg" points="[0, 0, -60, -1]$[60, 0, 0, -1]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ou7Cyi-3Ee2lFtEHzSYJpg" id="(1.0,0.49019607843137253)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ou7Cyy-3Ee2lFtEHzSYJpg" id="(0.0,0.5061728395061729)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_Ou7CzC-3Ee2lFtEHzSYJpg" type="4001" element="_Ou4mgi-3Ee2lFtEHzSYJpg" source="_Ou50oC-3Ee2lFtEHzSYJpg" target="_JiI4Fy73Ee2uUf-mqhY9mw">
+          <children xmi:type="notation:Node" xmi:id="_Ou7p0C-3Ee2lFtEHzSYJpg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ou7p0S-3Ee2lFtEHzSYJpg" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Ou7p0i-3Ee2lFtEHzSYJpg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ou7p0y-3Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Ou7p1C-3Ee2lFtEHzSYJpg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ou7p1S-3Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_Ou7CzS-3Ee2lFtEHzSYJpg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_Ou7Czi-3Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Ou7Czy-3Ee2lFtEHzSYJpg" points="[0, -1, -60, 0]$[60, -1, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ou7p1i-3Ee2lFtEHzSYJpg" id="(1.0,0.5061728395061729)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ou7p1y-3Ee2lFtEHzSYJpg" id="(0.0,0.48936170212765956)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_PooAAC-5Ee2lFtEHzSYJpg" type="4001" element="_PohSaS-5Ee2lFtEHzSYJpg" source="_JiI4Fy73Ee2uUf-mqhY9mw" target="_Poljwy-5Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_PooABC-5Ee2lFtEHzSYJpg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PooABS-5Ee2lFtEHzSYJpg" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_PooABi-5Ee2lFtEHzSYJpg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PooABy-5Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_PooACC-5Ee2lFtEHzSYJpg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PooACS-5Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_PooAAS-5Ee2lFtEHzSYJpg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_PooAAi-5Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_PooAAy-5Ee2lFtEHzSYJpg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_PooACi-5Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_PooACy-5Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_pRTDUC-5Ee2lFtEHzSYJpg" type="4001" element="_pROK5i-5Ee2lFtEHzSYJpg" source="_Poljwy-5Ee2lFtEHzSYJpg" target="_pRScQC-5Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_pRTqYC-5Ee2lFtEHzSYJpg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pRTqYS-5Ee2lFtEHzSYJpg" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_pRTqYi-5Ee2lFtEHzSYJpg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pRTqYy-5Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_pRTqZC-5Ee2lFtEHzSYJpg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pRTqZS-5Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_pRTDUS-5Ee2lFtEHzSYJpg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_pRTDUi-5Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_pRTDUy-5Ee2lFtEHzSYJpg" points="[0, 0, 386, 253]$[-385, -253, 1, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_pRTqZi-5Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_pRTqZy-5Ee2lFtEHzSYJpg" id="(0.5,0.5)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_JiI4FS73Ee2uUf-mqhY9mw" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_JiI4Fi73Ee2uUf-mqhY9mw"/>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_JiF0wy73Ee2uUf-mqhY9mw" outgoingEdges="_PohSaS-5Ee2lFtEHzSYJpg" incomingEdges="_onTj2S74Ee2uUf-mqhY9mw _Ou4mgi-3Ee2lFtEHzSYJpg" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:Grab" href="sample.mindstorms#//@instructions.3/@instructions.4"/>
+      <semanticElements xmi:type="mindstorms:Grab" href="sample.mindstorms#//@instructions.3/@instructions.4"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_JiF0xC73Ee2uUf-mqhY9mw" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/Grab.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Grab']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Grab']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_PogrQi-5Ee2lFtEHzSYJpg" outgoingEdges="_pROK5i-5Ee2lFtEHzSYJpg" incomingEdges="_PohSaS-5Ee2lFtEHzSYJpg" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:Grab" href="sample.mindstorms#//@instructions.3/@instructions.5"/>
+      <semanticElements xmi:type="mindstorms:Grab" href="sample.mindstorms#//@instructions.3/@instructions.5"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_PogrQy-5Ee2lFtEHzSYJpg" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/Grab.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Grab']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Grab']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_JiF0xi73Ee2uUf-mqhY9mw" outgoingEdges="_onS8wi74Ee2uUf-mqhY9mw _Ou3_eC-3Ee2lFtEHzSYJpg" incomingEdges="_onLA8C74Ee2uUf-mqhY9mw" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:Release" href="sample.mindstorms#//@instructions.3/@instructions.2"/>
+      <semanticElements xmi:type="mindstorms:Release" href="sample.mindstorms#//@instructions.3/@instructions.2"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_JiF0xy73Ee2uUf-mqhY9mw" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/Release.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Release']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Release']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_JiF0yS73Ee2uUf-mqhY9mw" name="50cm" outgoingEdges="_onLA8C74Ee2uUf-mqhY9mw" incomingEdges="_onTj1C74Ee2uUf-mqhY9mw" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.3/@instructions.1"/>
+      <semanticElements xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.3/@instructions.1"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_JiF0yi73Ee2uUf-mqhY9mw" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/GoForward.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_JiF0zC73Ee2uUf-mqhY9mw" name="?" outgoingEdges="_onTj1C74Ee2uUf-mqhY9mw" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.3/@instructions.0"/>
+      <semanticElements xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.3/@instructions.0"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_JiI4EC73Ee2uUf-mqhY9mw" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/Rotate_Left.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Rotate']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Rotate']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_JiI4Ei73Ee2uUf-mqhY9mw" name="C2" visible="false" outgoingEdges="_onTj2S74Ee2uUf-mqhY9mw" incomingEdges="_onS8wi74Ee2uUf-mqhY9mw" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3/@instructions.3"/>
+      <semanticElements xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3/@instructions.3"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_JiI4Ey73Ee2uUf-mqhY9mw" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/Choreography.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_SubChoreography']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_SubChoreography']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_onLA8C74Ee2uUf-mqhY9mw" sourceNode="_JiF0yS73Ee2uUf-mqhY9mw" targetNode="_JiF0xi73Ee2uUf-mqhY9mw">
+      <target xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.3/@instructions.1"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_onRHkC74Ee2uUf-mqhY9mw" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_onRuoC74Ee2uUf-mqhY9mw" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_onS8wi74Ee2uUf-mqhY9mw" visible="false" sourceNode="_JiF0xi73Ee2uUf-mqhY9mw" targetNode="_JiI4Ei73Ee2uUf-mqhY9mw">
+      <target xmi:type="mindstorms:Release" href="sample.mindstorms#//@instructions.3/@instructions.2"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_onTj0C74Ee2uUf-mqhY9mw" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_onTj0S74Ee2uUf-mqhY9mw" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_onTj1C74Ee2uUf-mqhY9mw" sourceNode="_JiF0zC73Ee2uUf-mqhY9mw" targetNode="_JiF0yS73Ee2uUf-mqhY9mw">
+      <target xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.3/@instructions.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_onTj1S74Ee2uUf-mqhY9mw" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_onTj1i74Ee2uUf-mqhY9mw" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_onTj2S74Ee2uUf-mqhY9mw" visible="false" sourceNode="_JiI4Ei73Ee2uUf-mqhY9mw" targetNode="_JiF0wy73Ee2uUf-mqhY9mw">
+      <target xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3/@instructions.3"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_onTj2i74Ee2uUf-mqhY9mw" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_onTj2y74Ee2uUf-mqhY9mw" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_Ou1jNS-3Ee2lFtEHzSYJpg" name="C2" outgoingEdges="_Ou4mgi-3Ee2lFtEHzSYJpg" incomingEdges="_Ou3_eC-3Ee2lFtEHzSYJpg">
+      <target xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3/@instructions.3"/>
+      <semanticElements xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3/@instructions.3"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_Ou2KQC-3Ee2lFtEHzSYJpg" borderSize="1" borderSizeComputationExpression="1" backgroundColor="900,100,130" foregroundColor="900,100,130">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']"/>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_Ou2KQi-3Ee2lFtEHzSYJpg" name="40 cm">
+        <target xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.3/@instructions.3/@instructions.0"/>
+        <semanticElements xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.3/@instructions.3/@instructions.0"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_Ou2xUC-3Ee2lFtEHzSYJpg" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']"/>
+      </ownedElements>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_Ou2xUS-3Ee2lFtEHzSYJpg" name="130°">
+        <target xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.3/@instructions.3/@instructions.1"/>
+        <semanticElements xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.3/@instructions.3/@instructions.1"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_Ou3YYC-3Ee2lFtEHzSYJpg" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']"/>
+      </ownedElements>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_Ou3YYS-3Ee2lFtEHzSYJpg" name="50 cm">
+        <target xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.3/@instructions.3/@instructions.2"/>
+        <semanticElements xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.3/@instructions.3/@instructions.2"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_Ou3YYi-3Ee2lFtEHzSYJpg" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@subNodeMappings[name='CD_SubInstruction']"/>
+      </ownedElements>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_Ou3_eC-3Ee2lFtEHzSYJpg" sourceNode="_JiF0xi73Ee2uUf-mqhY9mw" targetNode="_Ou1jNS-3Ee2lFtEHzSYJpg">
+      <target xmi:type="mindstorms:Release" href="sample.mindstorms#//@instructions.3/@instructions.2"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_Ou3_eS-3Ee2lFtEHzSYJpg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_Ou3_ei-3Ee2lFtEHzSYJpg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_Ou4mgi-3Ee2lFtEHzSYJpg" sourceNode="_Ou1jNS-3Ee2lFtEHzSYJpg" targetNode="_JiF0wy73Ee2uUf-mqhY9mw">
+      <target xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3/@instructions.3"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_Ou5NkC-3Ee2lFtEHzSYJpg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_Ou5NkS-3Ee2lFtEHzSYJpg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_PohSaS-5Ee2lFtEHzSYJpg" sourceNode="_JiF0wy73Ee2uUf-mqhY9mw" targetNode="_PogrQi-5Ee2lFtEHzSYJpg">
+      <target xmi:type="mindstorms:Grab" href="sample.mindstorms#//@instructions.3/@instructions.4"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_Poh5YC-5Ee2lFtEHzSYJpg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_Poh5YS-5Ee2lFtEHzSYJpg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_pRNjyy-5Ee2lFtEHzSYJpg" incomingEdges="_pROK5i-5Ee2lFtEHzSYJpg">
+      <target xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3/@instructions.6"/>
+      <semanticElements xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3/@instructions.6"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_pRNjzC-5Ee2lFtEHzSYJpg" borderSize="1" borderSizeComputationExpression="1" backgroundColor="900,100,130" foregroundColor="900,100,130">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_Subchoreography']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_pROK5i-5Ee2lFtEHzSYJpg" sourceNode="_PogrQi-5Ee2lFtEHzSYJpg" targetNode="_pRNjyy-5Ee2lFtEHzSYJpg">
+      <target xmi:type="mindstorms:Grab" href="sample.mindstorms#//@instructions.3/@instructions.5"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_pROK5y-5Ee2lFtEHzSYJpg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_pROK6C-5Ee2lFtEHzSYJpg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_JiD_kS73Ee2uUf-mqhY9mw"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer"/>
+    <target xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3"/>
+  </diagram:DSemanticDiagram>
+  <diagram:DSemanticDiagram uid="_XJtdwC-3Ee2lFtEHzSYJpg">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_XJ98cC-3Ee2lFtEHzSYJpg" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_XJ98cS-3Ee2lFtEHzSYJpg" type="Sirius" element="_XJtdwC-3Ee2lFtEHzSYJpg" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_XKEqIC-3Ee2lFtEHzSYJpg" type="2001" element="_XJ_KkC-3Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_XKFRMC-3Ee2lFtEHzSYJpg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_XKFRMS-3Ee2lFtEHzSYJpg" y="-18"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XKYzMC-3Ee2lFtEHzSYJpg" type="3005" element="_XJ_xoC-3Ee2lFtEHzSYJpg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_XKYzMS-3Ee2lFtEHzSYJpg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XKYzMi-3Ee2lFtEHzSYJpg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_XKEqIS-3Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XKEqIi-3Ee2lFtEHzSYJpg" y="12" width="50" height="33"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_XKN0EC-3Ee2lFtEHzSYJpg" type="2001" element="_XJ_xoi-3Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_XKObIC-3Ee2lFtEHzSYJpg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_XKObIS-3Ee2lFtEHzSYJpg" y="-18"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XKYzMy-3Ee2lFtEHzSYJpg" type="3005" element="_XJ_xoy-3Ee2lFtEHzSYJpg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_XKYzNC-3Ee2lFtEHzSYJpg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XKYzNS-3Ee2lFtEHzSYJpg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_XKN0ES-3Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XKN0Ei-3Ee2lFtEHzSYJpg" x="222" y="12" width="50" height="33"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_XKSFgC-3Ee2lFtEHzSYJpg" type="2001" element="_XKAYsC-3Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_XKSskC-3Ee2lFtEHzSYJpg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_XKSskS-3Ee2lFtEHzSYJpg" y="-18"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XKZaQC-3Ee2lFtEHzSYJpg" type="3005" element="_XKAYsS-3Ee2lFtEHzSYJpg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_XKZaQS-3Ee2lFtEHzSYJpg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XKZaQi-3Ee2lFtEHzSYJpg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_XKSFgS-3Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XKSFgi-3Ee2lFtEHzSYJpg" x="108" y="-2" width="50" height="54"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_XJ98ci-3Ee2lFtEHzSYJpg"/>
+        <edges xmi:type="notation:Edge" xmi:id="_XKZaQy-3Ee2lFtEHzSYJpg" type="4001" element="_XKA_wC-3Ee2lFtEHzSYJpg" source="_XKEqIC-3Ee2lFtEHzSYJpg" target="_XKSFgC-3Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_XKZaRy-3Ee2lFtEHzSYJpg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XKZaSC-3Ee2lFtEHzSYJpg" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XKZaSS-3Ee2lFtEHzSYJpg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XKZaSi-3Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XKZaSy-3Ee2lFtEHzSYJpg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XKZaTC-3Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_XKZaRC-3Ee2lFtEHzSYJpg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_XKZaRS-3Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_XKZaRi-3Ee2lFtEHzSYJpg" points="[0, 0, -60, 0]$[60, 0, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XKaBUC-3Ee2lFtEHzSYJpg" id="(1.0,0.48484848484848486)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XKaBUS-3Ee2lFtEHzSYJpg" id="(0.0,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_XKaBUi-3Ee2lFtEHzSYJpg" type="4001" element="_XKA_xS-3Ee2lFtEHzSYJpg" source="_XKSFgC-3Ee2lFtEHzSYJpg" target="_XKN0EC-3Ee2lFtEHzSYJpg">
+          <children xmi:type="notation:Node" xmi:id="_XKaBVi-3Ee2lFtEHzSYJpg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XKaBVy-3Ee2lFtEHzSYJpg" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XKaBWC-3Ee2lFtEHzSYJpg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XKaBWS-3Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XKaBWi-3Ee2lFtEHzSYJpg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XKaBWy-3Ee2lFtEHzSYJpg" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_XKaBUy-3Ee2lFtEHzSYJpg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_XKaBVC-3Ee2lFtEHzSYJpg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_XKaBVS-3Ee2lFtEHzSYJpg" points="[0, 0, -60, 0]$[60, 0, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XKaoYC-3Ee2lFtEHzSYJpg" id="(1.0,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XKaoYS-3Ee2lFtEHzSYJpg" id="(0.0,0.48484848484848486)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_XKBm1C-3Ee2lFtEHzSYJpg" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_XKBm1S-3Ee2lFtEHzSYJpg"/>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_XJ_KkC-3Ee2lFtEHzSYJpg" name="40cm" outgoingEdges="_XKA_wC-3Ee2lFtEHzSYJpg" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.3/@instructions.3/@instructions.0"/>
+      <semanticElements xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.3/@instructions.3/@instructions.0"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_XJ_xoC-3Ee2lFtEHzSYJpg" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/GoForward.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_XJ_xoi-3Ee2lFtEHzSYJpg" name="50cm" incomingEdges="_XKA_xS-3Ee2lFtEHzSYJpg" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.3/@instructions.3/@instructions.2"/>
+      <semanticElements xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.3/@instructions.3/@instructions.2"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_XJ_xoy-3Ee2lFtEHzSYJpg" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/GoForward.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_XKAYsC-3Ee2lFtEHzSYJpg" name="130°" outgoingEdges="_XKA_xS-3Ee2lFtEHzSYJpg" incomingEdges="_XKA_wC-3Ee2lFtEHzSYJpg" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.3/@instructions.3/@instructions.1"/>
+      <semanticElements xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.3/@instructions.3/@instructions.1"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_XKAYsS-3Ee2lFtEHzSYJpg" showIcon="false" workspacePath="/fr.obeo.dsl.tuto.mindstorms.design/icons/Rotate_Left.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Rotate']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Rotate']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_XKA_wC-3Ee2lFtEHzSYJpg" sourceNode="_XJ_KkC-3Ee2lFtEHzSYJpg" targetNode="_XKAYsC-3Ee2lFtEHzSYJpg">
+      <target xmi:type="mindstorms:GoForward" href="sample.mindstorms#//@instructions.3/@instructions.3/@instructions.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_XKA_wS-3Ee2lFtEHzSYJpg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_XKA_wi-3Ee2lFtEHzSYJpg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_XKA_xS-3Ee2lFtEHzSYJpg" sourceNode="_XKAYsC-3Ee2lFtEHzSYJpg" targetNode="_XJ_xoi-3Ee2lFtEHzSYJpg">
+      <target xmi:type="mindstorms:Rotate" href="sample.mindstorms#//@instructions.3/@instructions.3/@instructions.1"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_XKBm0C-3Ee2lFtEHzSYJpg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_XKBm0S-3Ee2lFtEHzSYJpg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@edgeMappings[name='CD_Next']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_XJuE0C-3Ee2lFtEHzSYJpg"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/fr.obeo.dsl.tuto.mindstorms.design/description/mindstorms.odesign#//@ownedViewpoints[name='Mindstorms']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer"/>
+    <target xmi:type="mindstorms:Choreography" href="sample.mindstorms#//@instructions.3/@instructions.3"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>
